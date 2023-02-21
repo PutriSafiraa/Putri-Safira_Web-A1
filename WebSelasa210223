@@ -11,8 +11,29 @@
 <center><img src="Coba Gambar.JPG" style="height: 50%;" alt=""></center>
 <center><img src="https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/suka-mendaki-gunung-coba-jelajahi-5-gunung-diindonesiaaja-ini-yuk/gunung-semeru.jpg" style="height: 50%;"</center>
 <center><img src="https://blogger.googleusercontent.com/img/a/AVvXsEi9PoiWP_W7KznQFL9UbMqzxok3JJ6udt967J1rFw_ppLJtPwwBuOEATSteRNZdrOgK0IONS9T9IOfHNtPDE9XebEEfWKXAuhkcKagZ8T-qpLVr1W38W1uNeSoZJbyeQ_dcgVF4o0XAAlJmZgDpUgodjRZrYsP6ygj6hXMAc3_6IMK__8TNNkHuwGlA7A=w320-h320" alt=""></center>
+<h1>Belajar Video</h1>
+    <video width="500" controls src ="Coba Video.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/opLZfMMglRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h1>Belajar Audio</h1>
+    <audio controls src="Belajar Audio.mp3"></audio>
+
+<h1>Belajar Tabel</h1>
+<tabel style="border:solid 5px;">
+<tr>
+    <th>No</th>
+    <th>Nama</th>
+    <th>NIM</th>
+    <th>Asal</th>
+</tr>
+<tr>
+    <td>1</td>
+    <td>Putri Safira</td>
+    <td>20105241033</td>
+    <td>Bantul</td>
+</tr>
+</tabel>
+<br>
+
 </body>
-
-
 
 </html>
