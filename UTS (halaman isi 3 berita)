@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Berita</title>
+        <link rel="stylesheet" href="kode.css">
+    </head>
+<style>
+    p{
+        margin-left: 100px;
+        margin-right: 100px;
+        text-align: justify;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    body{
+        display:flex;
+        flex-direction:column ;
+        background-color: rgb(198, 224, 218);
+    }
+</style>
+<body>
+    <header>
+        <h1 style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color:rgb(1, 20, 14);font-size: 30px; background-color: rgb(108, 199, 211); text-align: center;">Berita</h1>
+    </header>
+    <article>
+        <p style="font-size: 22px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">NASA Temukan Asteroid Baru, Diperkirakan Tabrak Bumi pada 2046</p>
+        <p>NASA memprediksi asteroid sebesar 50 meter bernama 2023 DW berpeluang menabrak Bumi pada 2046. Kantor Koordinasi Pertahanan Planet NASA mengunggah kabar adanya asteroid baru bernama 2023 DW yang akan menabrak Bumi pada 2046.</p>
+        <p>Asteroid itu memiliki kemungkinan kecil memengaruhi Bumi pada 2046 dengan perbandingan hanya 1:600. Namun, data itu termasuk menunjukkan ada risiko dampak yang lebih tinggi dibandingkan asteroid dekat Bumi lainnya.</p>
+        <p>Menurut NASA, asteroid tersebut kemungkinan tidak akan membawa bencana besar bagi bumi. Hal ini berbeda kasus dengan asteroid berukuran 12 kilometer yang membunuh populasi dinosaurus pada 66 juta tahun yang lalu.</p>
+        <p>Simak selengkapnya dalam video berikut.</p>
+        <p>Penulis Naskah: Hanindiya Dwi Lestari
+            Narator: Annisa Nurmaulia Al Fajri
+            Video Editor: Armitha Sathi Devi
+            Produser: Naufal Noorosa Ragadini
+            Music: Lurking  Silent Partner
+        </p>
+    </article>
+    <center><video width="500" controls src ="video1.mp4"></video></center>
+</body>
+</html>
