@@ -1,0 +1,124 @@
+<html>
+<head>
+    <title>Ciri-Ciri Planet</title>
+    <link rel="stylesheet" href="kode.css">
+</head>
+<style>
+    p{
+        margin-left: 100px;
+        margin-right: 100px;
+        text-align: justify;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    ul{
+        margin-left: 100px;
+        margin-right: 100px;
+        text-align: justify;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    }
+    body{
+        flex-direction:column ;
+        background-color: rgb(198, 224, 218);
+    }
+    
+</style>
+<body>
+    <header>
+        <h1 style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color:rgb(1, 20, 14);font-size: 30px; background-color: rgb(108, 199, 211); text-align: center;">Ciri-Ciri Planet Tata Surya</h1>
+    </header>
+    <article>
+        <p> <center> <img src="gambar5.png" style="width: 40%;"alt=""></center> </p>
+        <p>Sebelum membayangkan lebih jauh untuk menguasai planet-planet yang ada di tata surya ini, kamu tahu nggak, sih, apa yang dimaksud dengan planet? Secara harfiah, pengertian planet adalah suatu benda langit yang mengorbit atau mengelilingi suatu bintang dengan lintasan dan kecepatan tertentu.</p>
+        <p>Pada tata surya kita, terdapat 8 planet yang mengelilingi matahari sebagai pusatnya. Nama-nama planet itu antara lain, Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, dan Neptunus.</p>
+        <p>Nah, kedelapan planet tersebut memiliki ciri atau karakteristiknya masing-masing. Contohnya aja Bumi yang kita tempati ini, menjadi satu-satunya planet yang bisa ditinggali oleh makhluk hidup karena Bumi memiliki elemen-elemen, seperti atmosfer, air, dan jarak yang nggak terlalu dekat dengan matahari.</p>
+
+        <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">1. Merkurius</p>
+        <p>Planet yang pertama adalah Merkurius. Kamu tahu nggak kalau planet merkurius ini planet yang terkecil di tata surya kita? Ya, selain menjadi yang terkecil, merkurius juga planet yang paling dekat dengan matahari. Wah, nggak kebayang ya gimana panasnya kalo kita tinggal di planet ini? Planet Merkurius memiliki beberapa ciri-ciri, yaitu:</p>
+    <ul>
+        <li>Merkurius merupakan planet yang memiliki predikat sebagai planet terkecil dan terdekat dari Matahari.</li>
+        <li>Berwarna abu-abu.</li>
+        <li>Memiliki jarak 57 juta km dari Matahari.</li>
+        <li>Periode rotasi Merkurius 59 hari dan periode revolusi Merkurius 88 hari.</li>
+        <li>Terdiri dari 70% logam dan 30% silikat.</li>
+        <li>Berdiameter sekitar 4.879 km.</li>
+        <li>Bersuhu 430° C untuk bagian planet yang menghadap Matahari dan -180° C untuk yang membelakangi Matahari.</li>
+    </ul>
+        <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">2. Venus</p>
+        <p> Lalu, planet selanjutnya adalah Venus. Planet Venus merupakan planet kedua yang terdekat dari Matahari, lho!  Karena planet venus sering muncul pada pagi dan sore hari, planet venus ini juga dikenal sebagai bintang fajar atau bintang senja. Adapun ciri-ciri Planet Venus sebagai berikut:</p>
+    <ul>
+        <li>Biasa dikenal sebagai “bintang fajar” atau “bintang senja”.</li>
+        <li>Berwarna putih kekuningan.</li>
+        <li>Memiliki jarak 108 juta km dari Matahari.</li>
+        <li>Memiliki diameter 6.052 km</li>
+        <li>Periode rotasi Venus 116 hari 18 jam dan periode revolusi Venus 225 hari. </li>
+        <li>Berotasi melawan arah rotasi planet-planet lain.</li>
+    </ul>
+        <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">3. Bumi</p>
+        <p>Selanjutnya adalah planet tempat kita tinggal, yaitu Bumi. Bumi terdapat pada urutan planet ketiga yang terdekat dari Matahari. Nah, seperti yang kamu tau, bumi terdiri dari 70% air dan 30% daratan. Ciri-ciri planet Bumi kesayangan kita ini adalah:</p>
+    <ul>
+        <li>Berwarna biru kehijauan</li>
+        <li>Memiliki jarak 149,6 juta km dengan Matahari.</li>
+        <li>Memiliki diameter sebesar 12.742 km.</li>
+        <li>Memiliki 1 buah satelit alami bernama bulan.</li>
+        <li>Periode rotasi Bumi 23 jam 56 menit 4 detik (dibulatkan menjadi 24 jam)</li>
+        <li>Periode revolusi Bumi 265 hari.</li>
+        <li>Memiliki kondisi yang ramah bagi makhluk hidup dan satu-satunya planet di tata surya yang menampung makhluk hidup.</li>
+    </ul>
+    <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">4. Mars</p>
+    <p>Planet Mars merupakan planet yang berada pada urutan keempat dari matahari. Tapi apa kamu tau bahwa planet ini memiliki atmosfer yang hampir menyerupai bumi? Iya, tapi itu dulu. Sekarang, planet Mars memiliki atmosfer yang sangat tipis, dengan sebagian besar terdiri dari karbon dioksida (95,3%), nitrogen (2,7%), argon (1,6%), oksigen (0,15%), dan air (0,03%).</p>
+    <ul>
+        <li>Sering disebut sebagai “planet merah” karena memiliki permukaan yang berwarna kemerah-merahan.</li>
+        <li>Jarak antara mars dan Matahari adalah 227 juta km.</li>
+        <li>Memiliki diameter sekitar 6.779 km.</li>
+        <li>Periode rotasi Mars 1 hari 37 menit dan periode revolusi Mars 687 hari.</li>
+        <li>Memiliki 2 satelit, yaitu Phobos dan Deimos.</li>
+    </ul>
+    <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">5. Jupiter</p>
+    <p>Planet Jupiter merupakan planet yang berada pada urutan kelima dari matahari. Tidak hanya itu, planet Jupiter juga merupakan planet yang terbesar pada tata surya kita, loh! Nah, ciri-ciri dari planet Jupiter ini adalah:</p>
+    <ul>
+        <li>Merupakan planet terbesar pada tata surya.</li>
+        <li>Memiliki warna yang tampak berlapis-lapis dengan kombinasi warna orange dan putih.</li>
+        <li>Memiliki jarak sejauh 778,55 juta km dengan Matahari.</li>
+        <li>Diameternya adalah sekitar 14.890 km.</li>
+        <li>Periode rotasi Jupiter 9 jam 56 menit dan periode revolusi Jupiter 12 tahun.</li>
+        <li>Merupakan planet yang memiliki satelit terbanyak pada tata surya, yaitu sebanyak 79 satelit.</li>
+    </ul>
+    <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">6. Saturnus</p>
+    <p>Selain menjadi planet yang berada pada urutan keenam dari matahari, Saturnus juga terkenal dengan cincin yang mengelilinginya. Cincin yang mengelilingi Saturnus ini merupakan gumpalan-gumpalan es yang melayang dan mengelilingi atmosfer planet. Nah, berikut adalah ciri-ciri planet Saturnus:</p>
+    <ul>
+        <li>Berwarna kuning pucat.</li>
+        <li>Memiliki cincin yang terbuat dari gumpalan-gumpalan es yang mengelilingi atmosfernya.</li>
+        <li>Jarak planet saturnus dan Matahari adalah sejauh 1,4 milyar km.</li>
+        <li>Periode rotasi Saturnus 10 jam 42 menit dan periode revolusi Saturnus 29 tahun.</li>
+        <li>Berdiameter sebesar 116.463 km.</li>
+        <li>Memiliki satelit sebanyak 56 satelit</li>
+    </ul>
+    <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">7. Uranus</p>
+    <p>Planet Uranus merupakan planet yang berada pada urutan ketujuh pada sistem tata surya kita. Tapi tahu kah kamu, jika planet ini merupakan planet dengan suhu terdingin loh, yaitu sekitar -224° Celcius.</p>
+    <ul>
+        <li>Merupakan planet yang memiliki suhu terendah & terdingin yaitu sekitar -224° Celcius.</li>
+        <li>Berwarna biru muda.</li>
+        <li>Memiliki cincin unik yang melingkari planet secara vertical.</li>
+        <li>Periode rotasi Neptunus 17 jam 14 menit dan periode revolusi Neptunus 84 tahun.</li>
+        <li>Berdiameter 50.724 km.</li>
+        <li>Memiliki satelit sebanyak 27 buah satelit.</li>
+    </ul>
+    <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">8. Neptunus</p>
+    <p>Planet Neptunus merupakan planet dengan urutan terakhir dari sistem tata surya kita. Nah, tahu kah kamu seberapa jauh jarak antara planet Neptunus dengan matahari? Yup, sekitar 4.450 juta km lho!</p>
+    <ul>
+        <li>Merupakan planet yang berwarna biru.</li>
+        <li>Memiliki jarak sejauh 4,5 milyar km dari Matahari.</li>
+        <li>Berdiameter 49.530 km.</li>
+        <li>Periode rotasi Neptunus 16 jam 6 menit dan periode revolusi Neptunus 165 tahun.</li>
+        <li>Dikelilingi oleh 8 buah satelit, di antaranya adalah Triton, Proteus, Nereid, dan Larissa.</li>
+    </ul>
+    <p>Gimana? Seru kan mempelajari ciri-ciri planet di tata surya? Sudah bisa membedakan antara Saturnus dan Mars? Atau bumi dengan Neptunus?. Selamat belajar!</p>
+    
+    </article>
+</body>
+
+
+
+</html>
