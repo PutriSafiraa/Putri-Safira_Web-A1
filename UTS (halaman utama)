@@ -1,0 +1,108 @@
+<html>
+<head>
+    <title>Belajar Tata Surya</title>
+    <link rel="stylesheet" href="kode.css">
+</head>  
+<style>
+    header{
+        background-color: rgb(108, 199, 211);
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+        display: flex;
+        flex: 2;
+        text-align: center;
+        justify-content: space-between;
+    }
+    nav{
+        font-size: 20px;
+    }
+    p{
+        margin-left: 100px;
+        margin-right: 100px;
+        text-align: justify;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    }
+    article{
+        background-color: rgb(198, 224, 218);
+        width: 100%
+    }
+    body{
+        display:flex;
+        flex-direction:column ;
+        background-color: rgb(167, 161, 231);
+    }
+  
+</style>
+<body>
+    <header>
+        <h2 style="margin-left:20px;">Belajar Tata Surya</h2>
+        <nav style="margin-right: 20px;">
+            <a href="file:///E:/Web/tugastsurya/ciriplanet.html">Ciri Planet</a>
+            <a href="file:///E:/Web/tugastsurya/diskusiplanet.html">Diskusi</a>
+            <a href="file:///E:/Web/tugastsurya/beritaplanet.html">Berita</a>
+            <a href="file:///E:/Web/duamei/kalkulator.html">Kalkulator</a>
+            <a href="file:///E:/Web/game/index.html">Snake Game</a>
+        </nav>
+    </header>
+        <article>
+            <p> <center> <img src="gambar6.png" style="width: 100%;"alt=""></center> </p>
+            <p> <center> <img src="gambar1.png" style="width: 50%;"alt=""></center> </p>
+            <p> Tata surya merupakan sistem di antariksa dimana kita hidup di dalamnya.  Di dalam evolusi tata surya terdapat planet, bintang, dan benda-benda lainnya seperti meteor, komet, debu dan lain-lain. </p>
+            <p style="font-size: 30px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Apa itu Tata Surya?</p>
+            <p> Tata surya adalah susunan benda-benda di angkasa yang bergerak mengelilingi matahari sebagai pusat tata surya di semesta. Tata surya yang kita tempati diterjemahkan sebagai solar system. Diberi nama solar yang berasal dari bahasa latin yang berarti cahaya atau surya memiliki sebab di sistem tata surya kita mengorbit di bintang utama (induk) yaitu matahari. Sol diambil dari bahasa latin yang berarti matahari, singkatnya segala sesuatu yang memiliki keterkaitan dengan matahari dinamakan solar. </p>   
+            <p> Dalam perjalanannya, tata surya mengelilingi orbitnya di dalam galaksi bimasakti memiliki kecepatan ±515.000 mph, yaitu setara dengan 230 juta tahun yang dibutuhkan untuk mengelilingi penuh satu orbit galaksi. Selain memahami tentang tata surya, di dalam sebuah tata surya juga terdapat salah satu benda yang bernama planet. Planet adalah sebuah benda langit yang tidak memproduksi cahaya dan juga panas. Planet bergerak mengelilingi matahari dengan terus menerus. Benda-benda lain yang berada di dalam tata surya yaitu meteor, asteroid, komet, bintang, dan galaksi. </p>
+            <p> Menariknya, di dalam tata surya terdapat 8 (delapan) planet yang mengelilingi matahari. Proses orbit atau mengelilingi matahari dari ke delapan planet disebut revolusi. Setiap planet memiliki revolusi waktu yang berbeda-beda. Semakin si planet menjauh dari matahari, semakin lama juga waktu revolusi dari si planet tersebut. Planet-planet mengelilingi matahari sesuai dengan garis orbitnya. </p>
+            <p style="font-size:30px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Jenis-Jenis Planet di Dalam Tata Surya dan Penjelasannya </p>
+        
+            <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">1. Planet Merkurius</p>
+            <p> <left> <img src="gmerkurius.png" style="width: 40%;"alt=""></left></p>
+            <p> Merkurius adalah planet pertama yang terletak dekat dengan Matahari. Tidak mudah untuk mengamati Merkurius karena selalu dekat dengan Matahari. Planet terkecil dalam tata surya adalah Merkurius. Merkurius memiliki kecepatan mengelilingi Matahari sekali setiap 88 hari. Namun, Merkurius berputar pada porosnya dengan sangat lambat yakni setiap 58,6 hari sekali, tepat dua pertiga dari periode orbitnya. </p>
+            <p> Merkurius adalah sebuah planet kecil yang berbatu. Besarnya kira-kira hanya selebar Samudra Atlantik dan apabila dibandingkan dengan bumi, Merkurius memiliki 18 kali lebih kecil daripada planet bumi. Merkurius sangat mirip dengan Bulan. Permukaannya ditutupi dengan kawah tumbukan. Tidak memiliki atmosfer dan tidak ada air. Suhu siang hari di khatulistiwa bisa melonjak hingga 450 °C tetapi malam hari sangat dingin, di bawah -180 °C. </p>
+
+            <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">2. Planet Venus</p>
+            <p> <left> <img src="gvenus.png" style="width: 40%;"alt=""></left></p>
+            <p> Venus adalah planet kedua dari Matahari dan selalu cukup dekat dengan Matahari di dalam orbitnya. planet terpanas dalam tata surya adalah Venus. Venus muncul sebagai “bintang” pagi atau sore yang bersinar indah di angkasa. Venus merupakan objek paling terang di langit malam selain Bulan. Dalam teleskop, ktia dapat melihat Venus melalui fase, seperti Bulan. </p>
+            <p> Venus begitu terang karena tertutup oleh awan yang memantulkan banyak sinar matahari yang masuk. Awan kekuningan terbuat dari belerang dan asam sulfat. Dalam beberapa hal, Venus adalah kembaran Bumi. Ukurannya hampir sama dan terbuat dari bahan berbatu yang sama. Namun, Venus diselimuti oleh atmosfer tebal karbon dioksida – gas yang kita hirup. Suasana tersebut mungkin begitu padat sehingga berjalan melalui akan seperti mengarungi air. </p>
+            <p> Karbon dioksida memerangkap sebagian besar panas dari Matahari. Lapisan awan juga bertindak sebagai selimut. Hasilnya adalah “efek rumah kaca yang tak terkendali” yang menyebabkan suhu planet ini melonjak hingga 465 °C, cukup panas untuk melelehkan timah. Ini berarti Venus bahkan lebih panas dari Merkurius. </p>
+
+            <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">3. Planet Bumi</p>
+            <p> <left> <img src="gbumi.png" style="width: 40%;"alt=""></left></p>
+            <p> Semua orang di Bumi adalah seorang musafir yang berada diruang angkasa. Pertama, Bumi mengelilingi Matahari dengan kecepatan 30 Km/s yaitu 45 kali lebih cepat dari Concorde. Dibutuhkan 365 hari (satu tahun) untuk menyelesaikan satu orbit Matahari. </p>
+            <p> Bumi juga berputar sangat cepat, seperti bagian atas yang condong ke satu sisi. Orang yang tinggal di ekuator melakukan perjalanan dari barat ke timur dengan kecepatan 1670 Km per jam. (Kecepatannya lebih lambat untuk orang yang tinggal di dekat kutub). Karena segala sesuatu di sekitar kita bergerak dengan cara yang sama, kita biasanya tidak menyadari perjalanan kecepatan tinggi kita. </p>
+            <p> Cara paling jelas untuk mengetahuinya adalah dengan mengamati Matahari, Bulan, dan bintang-bintang saat mereka tampak bergerak melintasi langit. Kemiringan sumbu yang menghubungkan kutub utara dan selatan menandakan bahwa bumi memiliki musim. Ketika kutub utara menunjuk ke arah Matahari, maka musim panas di negara-negara utara. Ketika kutub utara menjauhi Matahari, negara-negara ini mengalami musim dingin. Musim adalah kebalikan dari selatan khatulistiwa. </p>
+
+            <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">4. Planet Mars</p>
+            <p> <left> <img src="gmars.png" style="width: 40%;"alt=""></left></p>
+            <p> Mars sering disebut ‘Planet Merah’ karena muncul di langit sebagai bintang berwarna oranye-merah. Warna tersebut menyebabkan orang Yunani dan Romawi kuno menamainya dengan nama dewa perang mereka. berkat kunjungan pesawat ruang angkasa, kita tahu bahwa kemunculan warna merah di planet ini disebabkan oleh karat di bebatuan Mars. </p>
+            <p> Mars adalah planet keempat dari Matahari. Ia mengorbit Matahari pada jarak rata-rata 228 juta km, yaitu setengah jaraknya lagi dengan Bumi, sehingga jika kita Berkunjung kita akan merasa sangat dingin. Meskipun musim panas di dekat khatulistiwa bisa sangat hangat, suhu rata-rata adalah 63 °C di bawah nol – mirip dengan musim dingin di Antartika. Malam juga sangat dingin. </p>
+            <p> Manusia yang pertama kali tinggal di Mars akan menghadapi masalah lain. Udara 100 kali lebih tipis daripada di Bumi, dan sebagian besar terdiri dari karbon dioksida. Penjelajah manusia harus memakai masker oksigen dan pakaian khusus setiap kali mereka keluar dari rumah mereka yang tertutup rapat. Bagaimana, masih mau mencoba tinggal di Mars? </p>
+
+            <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">5. Planet Jupiter</p>
+            <p> <left> <img src="gjupiter.png" style="width: 40%;"alt=""></left></p>
+            <p> Jupiter adalah planet kelima dari Matahari. Planet terbesar dalam tata surya adalah Jupiter. Jupiter sangat besar sehingga dapat dengan mudah menelan semua planet lain (bentuknya lebih dari 1.300 Bumi). Beratnya juga lebih dari dua kali lipat semua planet lain. Meskipun ukurannya sangat besar, Jupiter adalah planet yang berputar paling cepat, berputar sekali dalam waktu kurang dari 10 jam. </p>
+            <p> Jupiter lima kali lebih jauh dari Matahari dari Bumi, sehingga suhu permukaannya rendah, sekitar –145 °C. Setiap 13 bulan atau lebih itu datang lebih dekat kepada kita dan menjadi sangat cerah di langit malam. </p>
+            <p> Jupiter adalah bola gas raksasa tanpa permukaan padat. Jupiter terbuat dari gas yang sangat ringan, hidrogen dan helium. Teleskop menunjukkan suasana berawan dengan sabuk dan bintik-bintik berwarna-warni. Fitur terbesar – disebut Bintik Merah Besar – adalah badai raksasa, beberapa kali ukuran Bumi. Telah bertiup tanpa henti selama lebih dari 300 tahun. </p>
+            <p> Jupiter memiliki cincin debu tipis, lebarnya lebih dari 100.000 Km, yang ditemukan oleh pesawat ruang angkasa Voyager. Itu juga diorbit oleh keluarga satelit terbesar (63 pada hitungan terakhir). </p>
+
+            <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">6. Planet Saturnus</p>
+            <p> <left> <img src="gsaturnus.png" style="width: 40%;"alt=""></left></p>
+            <p> Saturnus adalah planet keenam dari Matahari. Kedua setelah Jupiter, Saturnus terutama terbuat dari gas ringan hidrogen dan helium. 764 Bumi akan muat di dalam Saturnus, tetapi ‘gas raksasa’ itu hanya berbobot 95 kali lipat dari dunia berbatu kita. Jika Anda bisa memasukkan semua planet ke dalam genangan air, Saturnus adalah satu-satunya yang akan mengapung. Terlepas dari ukurannya, Saturnus berputar sekali dalam lebih dari 10 jam. Putarannya begitu cepat sehingga menonjol keluar di ekuator, membuatnya tampak seperti bola yang telah tergencet. </p>
+            <p> Dalam teleskop, Saturnus tampak berwarna kuning pucat. Ia tidak memiliki permukaan padat, jadi yang kita lihat adalah awan yang tampak sebagai pita terang dan pita gelap. Awan ini tertiup angin yang sangat kencang. Sebagian besar panas yang mendorong angin ini berasal dari dalam planet. Di atas puncak awan adalah sistem cincin datar berbentuk cakram. </p>
+
+            <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">7. Planet Uranus</p>
+            <p> <left> <img src="guranus.png" style="width: 40%;"alt=""></left></p>
+            <p> Uranus adalah planet ketujuh dari Matahari. Ditemukan oleh William Herschel pada tahun 1781. Uranus terletak lebih dari 2.800 juta Km dari Matahari. Pada jarak ini, suhu puncak awannya adalah -214 °C. Uranus bergerak cukup lambat dan menempuh perjalanan yang panjang, sehingga setiap orbit berlangsung selama 84 tahun. </p>
+            <p> Uranus adalah dunia raksasa, planet terbesar ketiga di Tata Surya kita. 64 Bumi akan muat di dalamnya. Terlepas dari ukurannya, Uranus berputar dengan cepat. Sehari di Uranus hanya berlangsung 17 jam 14 menit. </p>
+            <p> Uranus berputar seperti gasing yang terguling di sisinya. Ini berarti Matahari terkadang berada tepat di atas kepala di kutub. Setiap kutub memiliki musim panas dan musim dingin yang berlangsung selama 21 tahun, menjadikannya tempat terpanas dan terdingin di planet ini. </p>
+
+            <p style="font-size: 20px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">8. Planet Neptunus</p>
+            <p> <left> <img src="gneptunus.png" style="width: 40%;"alt=""></left></p>
+            <p> Neptunus ditemukan pada tahun 1846 oleh Johann Galle, seorang astronom di Observatorium Berlin. Neptunus ternyata merupakan kembaran Uranus yang hampir identik. Neptunus memiliki lebar 57 kali lebih besar dari Bumi, tetapi berputar cukup cepat yakni satu hari hanya berlangsung 16 jam 7 menit. </p>
+            <p> Jarak rata-ratanya dari Matahari adalah sekitar 4.500 juta Km, dan satu tahun di Neptunus berlangsung selama hampir 165 tahun Bumi. Seperti Uranus, ia memiliki atmosfer hidrogen, helium, dan metana. Interiornya terbuat dari es, dengan kemungkinan inti berbatu. Meskipun atmosfernya sangat dingin (-220 °C), planet biru ini memiliki angin yang sangat kencang dan badai yang dahsyat. Voyager 2 mencitrakan tempat besar seukuran Bumi. </p>
+            <p> Neptunus memiliki 13 bulan seperti yang diketahui. Sejauh ini yang terbesar adalah Triton, dunia es yang lebih besar dari Pluto. Triton sangat dingin, sehingga atmosfer tipisnya telah membeku di permukaan. Namun, ia memiliki banyak gunung berapi es aktif yang menyemburkan gumpalan gas dan debu. Triton juga tidak biasa karena melakukan perjalanan “dengan cara yang salah” (timur ke barat) di sekitar Neptunus. </p>
+            <p> Gimana? Seru kan mempelajari berbagai macam planet yang ada di tata surya? Selanjutnya kamu bisa melanjutkan belajar dengan membaca ciri-ciri planet tata surya, berita planet tata surya, dan diskusi bersama planet tata surya. Selamat Belajar!</p>
+            <p> <center> <img src="gambar6.png" style="width: 100%;"alt=""></center> </p>
+        </article> 
+</body>
+</html>
