@@ -1,0 +1,64 @@
+<html>
+<head>
+    <title>Diskusi Tata Surya</title>
+    <link rel="stylesheet" href="kode.css">
+</head>
+<style>
+    p{
+        margin-left: 100px;
+        margin-right: 100px;
+        text-align: justify;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    ul{
+        margin-left: 100px;
+        margin-right: 100px;
+        text-align: justify;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    }
+    ol{margin-left: 100px;
+        margin-right: 100px;
+        text-align: justify;
+        font-size: 16px;
+        font-family: 'Segoe UI', T
+    }
+    body{
+        flex-direction:column ;
+        background-color: rgb(198, 224, 218);
+    }
+</style>
+<body>
+    <header>
+        <h1 style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color:rgb(1, 20, 14);font-size: 30px; background-color: rgb(108, 199, 211); text-align: center;">Pergerakan Planet dalam Tata Surya</h1>
+    </header>
+    <p style="font-size: 25px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Alat dan Bahan</p>
+    <ul>
+        <li>Kertas karton</li>
+        <li>Spidol besar hitam</li>
+        <li>Penggaris</li>
+        <li>Gunting</li>
+        <li>Serbuk gamping</li>
+    </ul>
+    <p style="font-size: 25px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Cara Kerja</p>
+    <ol>
+        <li>Lakukan kegiatan secara berkelompok. Satu kelompok beranggotakan 9 orang</li>
+        <li>Buatlah 9 kartu dari kertas karton. Masing-masing kartu berukuran 30 cm × 10 cm. Tuliskan nama kedelapan planet pada kartu tersebut. Satu kartu bertuliskan satu nama planet. Satu kartu yang masih tersisa ditulisi "Matahari"</li>
+        <li>Masing-masing anggota kelompok mengambil satu kartu secara acak</li>
+        <li>Buatlah model sistem tata surya menggunakan serbuk gamping. Contohnya dapat kalian lihat pada gambar berikut.</li>
+        <img src="gambar3.PNG" style="width: 35%;"
+        <p> <li>Perhatikan lintasan yang sudah kalian buat. Titik pusat lingkaran merupakan titik pusat tata suya. Sementara itu, 8 garis elips merupakan lintasan masing masing planet. Tempatkan diri kalian pada model sistem tata surya tersebut. Setiap orang menempati lintasan sesuai dengan nama yang tertulis pada kartu. Selanjutnya, lakukan gerakan-gerakan planet. Perhatikan gambar berikut untuk membantu kalian.</li>
+        <img src="gambar4.PNG" style="width: 25%;"
+        <p> <li>Setelah selesai melakukan kegiatan, lakukan diskusi kelompok. Diskusikan beberapa hal berikut.</li>
+        </p> 
+    </ol>
+    <ul>
+        <li>Gerakan apa saja yang dilakukan oleh setiap planet?</li>
+        <li>Apakah antarplanet saling bertumbukan selama melakukan gerakan?</li>
+        <li>Mengapa Matahari berada dititik pusat? </li>
+        <li>Tuliskan hasil diskusi kalian pada selembar kertas. Selanjutnya, kemukakan tulisan tersebut di depan kelas dan serahkan hasil diskusimu ke guru kelas mu!. Selamat belajar!.</li>
+    </ul>
+    
+</body>
+</html>
