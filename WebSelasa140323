@@ -1,0 +1,95 @@
+<html>
+<head>
+    <title>Latihan CSS</title>
+    <link rel="stylesheet" href="kode.css">
+
+    <style>
+    *{
+        margin: 0px;
+        padding: 10px;
+        box-sizing: border-box;
+        height: 100%;}
+
+    body {
+        display: flex;
+        flex-direction: column;
+        background-color: lightseagreen;
+    }
+    header{
+        background-color: yellow;
+        font-size: 30pt;
+        display: flex;
+        flex: 2;
+    }
+    main{
+        background-color: lightcoral;
+        display: flex;
+        flex: 4;
+    }
+    section{
+        display: flex;
+        background-color: blueviolet;
+        width: 100%;
+        column-gap: 10px;
+    }
+    footer{
+        background-color: lightsalmon;
+        display: flex;
+        flex: 1;
+    }  
+    aside{
+        background-color: lightslategray;
+        width: 20%;
+    }
+    article{
+        background-color:lightgreen;
+        width: 100%;
+    }
+
+    img{height: 30%; 
+    float:left;
+    margin-right: 9px;}
+
+p{text-align: justify;}
+
+</style>
+
+<body>
+    <header>
+        <h2>LOGO</h2>
+        <nav>
+            <a href="">Menu</a>
+            <a href="">Search</a>
+            <a href="">Bantuan</a>
+        </nav>
+    </header>
+
+    <main>
+        <aside>
+            <a href="#">Daftar Mata Kuliah</a>
+            <br>
+            <a href="#">Jam</a>
+            <br>
+            <a href="#">Data Dosen</a>
+        </aside>
+        <section>
+            <article>konten 1
+                <p><img src="gambar apel.jpg" alt="">Apel merupakan jenis buah-buahan, atau buah yang dihasilkan dari pohon apel. Buah apel biasanya berwarna merah kulitnya jika masak dan, namun bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek dan daging buahnya keras. Buah apel memiliki beberapa biji di dalamnya.
+                </p>
+            </article>
+            <article>konten 2
+                <p><img src="gambar jeruk.jpg" alt="">Buah Jeruk (Citrus sinensis Osbeck) adalah buah yang memiliki kulit berwarna hijau hingga jingga dan daging buahnya mengandung banyak air. Sari buah jeruk merupakan minuman hasil perasan jeruk yang populer. Pohon – pohon jeruk manis banyak tumbuh di iklim tropis dan subtropis.    
+                </p>
+            </article>
+            <article>konten 3
+                <p><img src="gambar anggur.jpg" alt="">Anggur merupakan buah yang diolah dari telur buah berupa perdu merambat yang termasuk ke dalam keluarga Vitaceae. Buah ini biasanya digunakan untuk membuat jus anggur, jelly, minuman anggur, minyak biji anggur dan kismis, atau dimakan langsung.
+                </p>
+            </article>
+        </section>
+    </main>
+    <footer>footer</footer>
+</body>
+
+
+</head>
+</html>
