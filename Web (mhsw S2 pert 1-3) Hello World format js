@@ -1,0 +1,23 @@
+document.writeln("Hello World");
+
+document.writeln("<p>Nama : Putri Safira");
+document.writeln("<p>NIM : 20105241033");
+document.writeln("<p>Jurusan : Teknologi Pendidikan");
+
+let fullName = "Putri Safira";
+let firstName = "Putri";
+let middleName = " ";
+let lastName = "Safira";
+
+document.writeln("</br>");
+document.writeln("Nama lengkap : " + fullName);
+document.writeln("</br>");
+document.writeln("Nama pertama : " + firstName);
+document.writeln("</br>");
+document.writeln("Nama tengah : " + middleName);
+document.writeln("</br>");
+document.writeln("Nama terakhir : " + lastName);
+
+let result = 1 + 2;
+document.writeln("<p>1+2= " + result + "</p>");
+let originalResult = result
